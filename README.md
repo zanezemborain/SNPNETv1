@@ -17,10 +17,10 @@ The associated Python and Pytorch files can be found at:
 
 
 
-#Training Notebooks:
+# Training Notebooks:
 
 
-#Testing Notebooks:
+# Testing Notebooks:
 
 
 
