@@ -4,6 +4,7 @@
 
 # Original Article:
 
+The oringal article can be found at the following link:
 
 
 # Citation:
@@ -15,7 +16,6 @@ Z. Z. Zemborain, M. Soifer, N. S. Azar, S. Murillo, H. M. Mousa, V.L. Perez, S. 
 Files can be downloaded at the following link:
 
 https://people.duke.edu/~sf59/Zemborain_SNP_Net.htm
-
 
 
 
