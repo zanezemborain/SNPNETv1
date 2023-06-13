@@ -8,11 +8,13 @@
 
 # Citation:
 
-
+Z. Z. Zemborain, M. Soifer, N. S. Azar, S. Murillo, H. M. Mousa, V.L. Perez, S. Farsiu," Open-Source Automated Segmentation of Neuronal Structures in Corneal Confocal Microscopy Images of the Subbasal Nerve Plexus with Accuracy on Par with Human Grading", Cornea, (In PRESS) 2023
 
 # Dataset:
 
-The associated Python and Pytorch files can be found at:
+Files can be downloaded at the following link:
+
+https://people.duke.edu/~sf59/Zemborain_SNP_Net.htm
 
 
 
@@ -35,8 +37,9 @@ The associated Python and Pytorch files can be found at:
 - Test_New_Data.ipynb
 
 
+# Note:
 
-
+Directory paths in notebooks will need to be changed for personal use.
 
 
 
