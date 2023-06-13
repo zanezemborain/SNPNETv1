@@ -4,7 +4,7 @@
 
 # Original Article:
 
-The oringal article can be found at the following link:
+The original article can be found at the following link:
 
 
 # Citation:
