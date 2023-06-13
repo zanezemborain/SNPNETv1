@@ -18,6 +18,8 @@ Files can be downloaded at the following link:
 https://people.duke.edu/~sf59/Zemborain_SNP_Net.htm
 
 
+This dataset is copyrighted and may only be used for academic research.
+
 
 # Training Notebooks:
 
